@@ -1,1 +1,11 @@
 *.xnb
+*.png
+
+src/.psd
+
+# Build
+build/
+
+# OS
+Thumbs.db
+.DS_Store
