@@ -1,7 +1,4 @@
 *.xnb
-*.png
-
-src/.psd
 
 # Build
 build/
