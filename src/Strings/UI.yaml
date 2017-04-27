@@ -27,7 +27,7 @@ content:  #!Dictionary<String,String>
     Toggle_ColorPicker: "Farbwähler umschalten" #!String
     Backpack_Bought: "Toll! Du kannst jetzt bis zu {0} Items tragen!" #!String
     About_Title: "    Stardew Valley" #!String
-    About_Credit: "\n= Erstellt von ConcernedApe\n< Veröffentlicht von Chucklefish\n" #!String
+    About_Credit: "\n= Erstellt von ConcernedApeÄ.Ö.Ü.ä.ö.ü.ß.\n< Veröffentlicht von Chucklefish\n" #!String
     About_Website: "Stardew Valley im Internet" #!String
     About_ConcernedApe: "ConcernedApe auf Twitter" #!String
     About_Chucklefish: "Chucklefish, LTD." #!String

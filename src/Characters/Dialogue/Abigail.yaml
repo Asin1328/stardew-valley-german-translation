@@ -1,0 +1,123 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    4: "Oh, hi." #!String
+    Introduction: "Oh, das ist richtig... ich hörte das jemanden, auf die alte Farm gezogen ist.#$e#Es ist eine Schande, wirklich. Ich habe es immer genossen, diese überwachsenen Felder alleine zu erforschen.$9" #!String
+    danceRejection: "Das ist schmeichelhaft... aber ich muss nein sagen. Es tut mir leid." #!String
+    divorced: "Was machst du hier? Lass mich einfach in Ruhe!$a" #!String
+    Mon: "Oh, hey. Machst du eine Pause von der Arbeit?" #!String
+    Mon2: "Oh, hi!#$e#Hast du jemals auf dem Friedhof abgehangen? Es ist ein friedlicher Ort, um da etwas Zeit zu verbringen." #!String
+    Tue: "Ugh... Ich bin gerade nicht gut gelaunt.$s#$e#Ich sagte, ich bin nicht gut gelaunt... was willst du?$a" #!String
+    Tue2: "...*seufz*...$s#$e#Ich weiß, meine Eltern meinen es gut, aber manchmal können sie mich nicht verstehen. Waren sie noch nie jung?" #!String
+    Wed: "Hey. Tut mir leid, wenn ich etwas Unhöfliches sagen sollte. Ich habe letzte Nacht nicht viel geschlafen.#$e#Was willst du?" #!String
+    Thu: "#$1 Abigail1#Oh nein, ich glaube, mein Dad wird heute Abend das Abendessen kochen...$s#$e#Ich habe heute auf nichts mehr lust...$u" #!String
+    Fri: "Wow, ich habe gerade erkannt, dass es Freitag ist. $u#$e#Manchmal vergesse ich völlig die Zeit." #!String
+    Fri2: "Wir werden heute Abend im Salon abhängen. Es ist sowas wie unser wöchentliches Ritual, denke ich." #!String
+    Sat: "Die frische Bergluft ist an so einem Tag wie heute, richtig toll.$h#$e#Ich frage mich, ob die Frösche bald erscheinen werden." #!String
+    Sun: "Oh Mann... Ich habe meine Hausaufgaben das ganze Wochenende vor mich hergeschoben. Sieht aus, als müsste ich wieder eine Nacht durchmachen...$s" #!String
+    Sun2: "Ich frage mich, was passieren würde, wenn ich die ganze Nacht auf dem Friedhof verbringe?#$q 17/18 Sun_old#@, Was denkst du, was mit uns passiert, wenn wir sterben?#$r 17 0 Sun_17#Ich habe keine Ahnung.#$r 18 40 Sun_18#Wir kommen als gruselige Geister zurück.#$r 17 0 Sun_17#Wir kommen in den Himmel.#$r 18 0 Sun_17#Unsere Körper aus Energie, betreten die astrale Ebene.#$r 17 30 Sun_nothing#Nichts. Wir hören einfach auf zu existieren." #!String
+    Sun_old: "$p 17#Ich glaube, du denkst nichts würde passieren, richtig?$u|Wahrscheinlich würde ein böser Geist erscheinen!" #!String
+    Sun_17: "Hmm, interessant..." #!String
+    Sun_18: "Nun, das ist eine interessante Theorie!$h" #!String
+    Sun_nothing: "Du weißt, das wäre nicht so schlimm.$8" #!String
+    Wed2: "Oh, hi @. Machst du eine Pause von deiner Arbeit?#$e#Ich auch. Oh! Nichts körperliches... nur einige Online-Klassen, an denen ich teilnehme." #!String
+    Tue4: "Hi, ich bin froh, dich zu sehen.$h#$e#Ich möchte mich für eine Weile von den Sachen ablenken... wie läuft dein Tag so?" #!String
+    Sat6: "Du bist den ganzen Weg gekommen, um mich zu besuchen? Das ist schön.$h#$e#Also hast du die Berghöhlen schon erforscht?#$e#Interessant. Ich würde irgendwann auch Mal gerne hingehen.$l" #!String
+    Mon8: "...Oh, @! Hi.$h#$e#Willst du eine Weile abhängen? Hier! Lass mich aus deine Hand lesen. *kicher* $h" #!String
+    Thu10: "Hi.$l#$e#Fühlst du dich, als wäre in letzter Zeit alles unwirklich?$l#$b#Aber nicht im schlechten Sinne.$h" #!String
+    Fri6: "Die Vögel haben heute glücklich gezwitschert. Sie sind zu einfach, um die Zukunft zu verstehen.#$e#Es ist besser, wie sie zu sein, nicht wahr?" #!String
+    Event_VideoGame_Yes: "Toll! Ich bin sicher, du wirst mit Leichtigkeit in der Lage sein, dieses Level zu schlagen.$h" #!String
+    Event_VideoGame_No: "Oh? *seufzer*... Ich glaube, ich werde niemals an diesem Level vorbeikommen...$s" #!String
+    Event_Grave1: "Siehst du? Du verstehst, warum ich hier draußen bin.#$b#Ich habe mein ganzes Leben im Tal gelebt, aber ich habe noch nie etwas unvergessliches gemacht. Ich will ein Abenteuer erleben!$8" #!String
+    Event_Grave2: "Sicher. Ich will auch nichts töten. Ich will nur ein wenig erkunden, ohne meinen Hals zu riskieren!#$b#Ich habe mein ganzes Leben im Tal gelebt, aber ich habe noch nie etwas unvergessliches gemacht. Ich will ein Abenteuer erleben!$8" #!String
+    Event_Grave3: "Oh, es ist, weil ich ein Mädchen bin... nicht wahr? Pfff...$u^Warum? Ich bin genauso stark wie du!$a#$b#Ich bin keine zerbrechliche Prinzessin. Ich kann mich um mich selbst kümmern!$a#$b#Ich habe mein ganzes Leben im Tal gelebt, aber ich habe noch nie etwas unvergessliches gemacht. Ich will ein Abenteuer erleben!$8" #!String
+    Event_Grave4: "Wirklich? Das ist überraschend.$8#$b#Ich habe mein ganzes Leben im Tal gelebt, aber ich habe noch nie etwas unvergessliches gemacht. Ich will ein Abenteuer erleben!$8" #!String
+    Event_Rain_1: "Ich verstehe...$8" #!String
+    Event_Rain_2: "Ja... Ich denke mir schon, dass du jemand sein würdest, der diese düstere Atmosphäre zu schätzen weiß." #!String
+    Event_Rain_3: "...Das stimmt.$8" #!String
+    Event_Tragic_1: "Ja... ich denke, mein eigenes Leben ist ok...$s" #!String
+    Event_Tragic_2: "...!$h" #!String
+    Event_Tragic_3: "Ich würde mich besser fühlen, wenn ich das glauben könnte...#$b#Aber, ich tue es nicht.$s" #!String
+    Event_Cave2_1: "@...$8" #!String
+    Event_Cave2_2: "@... Mir geht es gut.$8" #!String
+    Event_Cave_1: "...ok.$8" #!String
+    Event_Cave_2: "Ich denke, wenn man etwas zu verlieren hat, ist es normal, Angst zu haben...$l" #!String
+    Event_Cave_3: "...Ähm, ok. Entschuldige.$9" #!String
+    summer_1: "Der Sommer ist da. Es ist nicht wirklich meine Lieblings-Jahreszeit.#$e#Die Luft ist so stickig. Ich fühle mich, als würde ich in einer Suppe treiben." #!String
+    summer_Mon: "Mein Meerschweinchen, David, hasst dieses heiße Wetter. Er ist pingelig." #!String
+    summer_Tue: "Die Luft ist den ganzen Sommer, fast so dick mit Honig und Nektar. Ich fühle mich fast schwindelig.$u" #!String
+    summer_Wed: "Hast du dein Haus überhaupt geschmückt? Das würde ich tun, wenn ich ein Haus hätte." #!String
+    summer_6: "Ich bin gestern Abend, nach einbruch der Dunkelheit, zum Strand gegangen,... Manchmal sieht man seltsame Lichter, die über das Meer hüpfen.#$e#Oder vielleicht war das nur ein Traum, den ich hatte... Es fühlt sich nicht mehr real an." #!String
+    summer_Thu: "Wenn ich wüsste, wie man ein Schwert benutzt, würde ich die Höhlen am Bergsee erkunden. Es ist wahrscheinlich schön und kühl dort drin." #!String
+    summer_Thu4: "Ew, ich hoffe, ich bekomme in diesem Sommer keine Bräune.$s" #!String
+    summer_Fri: "Ich wünschte, ich hätte eine Katze. Leider ist mein Dad allergisch auf so ziemlich alles." #!String
+    summer_Sat: "Ich freue mich schon auf den Herbst... die kühle Bergbrise, die wirbelnden roten Blütenblätter, der Geruch von Pilzen... *seufz*" #!String
+    summer_Sun: "Hast du jemals den Drang verspührt, etwas zu erforschen, @?#$q 25/26 summer_Sun_old#Ok... tu so, als hättest du gerade einen kostenlosen Urlaub gewonnen. Wohin würdest du gehen?#$r 25 0 Sun_25#An den Strand.#$r 26 30 Sun_26#In eine dunkle Höhle.#$r 26 30 Sun_26#In den alten, knorrigen Wald.#$r 25 0 Sun_25#In das Joja Mega-Einkaufszentrum." #!String
+    summer_Sun_old: "$p 25#Ich mache es... aber du wirst wahrscheinlich die Orte nicht mögen, an die ich denke...|Vielleicht sind wir eines Tages Nachbarn. Ich denke, wir beide haben ähnliche, seltsame Geschmäcker.$h" #!String
+    Sun_25: "Huh. Ich denke, das wird schnell langweilig werden." #!String
+    Sun_26: "Ja! Das hört sich wunderbar an.$h" #!String
+    summer_Wed2: "Ich würde es lieben in einem alten Farmhaus wie du zu leben.#$b#Das Knarren einer Diele, die langsamen Staubwolken, die durch die Sparren flüstern... Da ist etwas Besonderes an einem alten Gebäude, ist es nicht so?" #!String
+    summer_Tue4: "Du bist ein interessanter Typ, @. Ich bin froh, dass du hierher gezogen bist.$h^Du bist eine interessante Frau, @. Ich bin froh, dass du hierher gezogen bist.$h" #!String
+    summer_Sat6: "Ich genieße diesen Sommer sehr.$h#$e#Es ist lustig, wie schnell sich die Ansichten ändern können." #!String
+    summer_Mon8: "Ich dachte, Pelican Town war irgendwie farblos, aber in letzter Zeit fange ich an, einige Dinge hier zu lieben.$h" #!String
+    summer_Thu10: "Wow, du siehst heute gut aus.#$e#Ich meine, die Sommerluft ist wirklich gut für den Teint, nicht wahr?... hehe...$l" #!String
+    summer_Fri10: "Bist du jemals einsam auf deiner Farm?" #!String
+    fall_1: "Ah... Der Herbst ist da!$h#$e#Ich hatte den Sommer langsam satt." #!String
+    fall_Mon: "Ich muss heute mal meine Beine strecken und frische Luft bekommen." #!String
+    fall_Tue: "$d joja#Ich versuche, an den meisten Tagen in den Geschäften zu helfen. Das Geschäft läuft ziemlich schlecht, seit der Joja Mart eröffnet hat.|Seit der Joja Markt geschlossen ist, läuft der Laden wieder gut!$h" #!String
+    fall_Wed: "Ich kann es kaum erwarten, einige Kürbisse in diesem Jahr zu sehen.$h#$e#Das Geisterfest wird am Ende der Saison stattfinden. Es ist ziemlich klein im Vergleich zu dem, was man in Zuzu City sehen würde, aber für eine kleine Stadt wie dieses ist es eine Menge Spaß." #!String
+    fall_Thu: "#$1 AbigailHAND#Letzte Nacht habe ich geträumt, dass meine linke Hand zu einem gigantischen %noun geworden war. Bedeutet das etwas?#$e#%Abigail scheint gerade nicht am sprechen interessiert zu sein." #!String
+    fall_Sat: "$d cc#Ich kann nicht glauben, dass du das alte Gemeinschaftszentrum alleine repariert hast. Ich bin wirklich beeindruckt.|Hast du irgendwelche Vogelscheuchen auf deinem Bauernhof?" #!String
+    fall_Sun: "Hmm... Was soll ich heute abend machen?#$q 27/28 fall_Sun_old#Ich dachte wieder darüber nach, meine Haare zu färben... was denkst du?#$r 27 10 Sun_27#Färbe sie schwarz.#$r 27 10 Sun_27#Warum nicht blond?#$r 27 20 Sun_WildColor#Wie wäre es mit Pink?#$r 28 0 Sun_28#Ich mag deine Haare genau so, wie sie sind!" #!String
+    fall_Sun_old: "$p 27#Ich wollte meine Haare färben, aber dann habe ich mich dagegen entschieden.|Ja? Was ist?" #!String
+    Sun_27: "Ich denke, das ist eine ziemlich sichere Wahl, hm?#$e#Ich werde darüber nachdenken." #!String
+    Sun_28: "Natürlich ist es das, was du sagen würdest.$u" #!String
+    Sun_WildColor: "Du bist immer gut für einen Lacher.$h" #!String
+    fall_Wed2: "Lässt du in diesem Jahr Kürbisse auf deiner Farm wachsen?#$e#Behalt einen für mich!$h" #!String
+    fall_Tue4: "Ich mag zwar mit meinen Eltern viel streiten, aber ich weiß, dass sie sich nur um mich sorgen. Sie tun das, was sie für das Beste halten.$s#$b#Ich weiß garnicht, warum ich dir das erzähle. Sag es niemandem.$8" #!String
+    fall_Sat6: "Hi.$h#$e#Deine Haare sehen heute cool aus... hast du etwas anders gemacht?" #!String
+    fall_Mon8: "Weißt du, ich könnte mich selbst eines Tages als eine Farmerin sehen...#$e#Aber wie sollte das jemals passieren? *kichern*$l" #!String
+    fall_Thu10: "Ich hatte letzte Nacht einen interessanten Traum, mit dir.#$e#Es war ein schöner Traum.$h" #!String
+    fall_Fri6: "Ich wünschte, die Jahreszeit dauert etwas länger.$8#$e#Wenn der Wind wirklich stark wird, fühle ich mich fast wieder wie ein Kind." #!String
+    fall_Fri10: "Ich fühle mich normalerweise in dieser Zeit des Jahres einsam, aber jetzt nicht mehr.$l#$e#@, Was sind deine Pläne für die Zukunft?" #!String
+    winter_1: "Nun, der Herbst ist vorbei...$s#$e#Aber ich mag auch den Winter!$h" #!String
+    winter_Mon: "Es ist einfach zu kalt, um viel nach draußen zu gehen.#$e#But Ich mag es, einen Schneemann zu bauen.$h" #!String
+    winter_Tue: "Hört sich ein dampfend heißer Kakao jetzt nicht gut?" #!String
+    winter_Wed: "Hi. Ist es langweilig, im Winter ein Farmer zu sein?" #!String
+    spring_12: "Ich werde morgen auf jeden Fall bei der Eierjagd mitmachen. Du auch?" #!String
+    spring_23: "Nun, morgen ist der Blumen-Tanz. Tanzen ist in Ordnung, aber sie wollen das ich dieses dumme weiße Kleid trage...$s" #!String
+    winter_7: "Ich freue mich darauf, morgen einen Schneemann zu machen." #!String
+    fall_26: "Werde ich dich morgen auf dem Halloween-Fest sehen? Suche mich im Spuk-Labyrinth.$h" #!String
+    summer_10: "Alle sind wegen dem  Luau morgen aufgeregt. Vielleicht auch ein wenig nervös, wenn man bedenkt, dass der Gouverneur hier sein wird." #!String
+    summer_27: "Du darfst das Fest morgen nicht verpassen. Es ist eines der schönsten Wunder des Tales." #!String
+    winter_24: "Ich werde morgen so viel Cranberrysauce essen.$h" #!String
+    winter_Thu: "Ein weiteres Jahr ist fast vorbei.#$e#Es geht so schnell, nicht wahr?$s" #!String
+    winter_Fri: "Eine Sache, die ich hier gelernt habe ist... dass dich jeder ansieht, wenn du anders aussiehst." #!String
+    winter_Sat: "Es ist Wochenende!#$e#Das heißt, ich kann doppelt so viele Videospiele spielen.$h#$e#Bye." #!String
+    winter_Sun: "Oh, hallo.#$q 29/30 winter_Sun_old#Ich habe diese beiden Zeichnungen gemacht. Was denkst du?#$r 29 20 Sun_29#Ich mag die Dschungelinsel und den Tiger.#$r 30 5 Sun_30#Ich mag den Ork mit der Schlachtaxt.#$r 29 -50 Sun_Bad#Ich mag keins davon." #!String
+    winter_Sun_old: "$p 29#Erinnerst du dich an die Zeichnungen, die ich dir vor einer Weile gezeigt habe? Ich habe sie versehentlich weggeworfen.$s|Erinnerst du dich, dass ich dir eine Zeichnung mit einem Ork gezeigt hab? Ich habe damit bei einem Online-Wettbewerb teilgenommen und 50g gewonnen!$h" #!String
+    Sun_29: "Oh ja? Ich denke, das macht Sinn." #!String
+    Sun_30: "Ich bin froh. Es ist peinlich, seine Kunst mit anderen zu teilen. Aber ich denke du und ich sind auf der selben Seite." #!String
+    Sun_Bad: "Unhöflich! Warum solltest du meine Gefühle so verletzen? Du bist so unsensibel!$s" #!String
+    winter_Wed2: "Hi. Wenn du dich jemals langweilst, kannst du in meinem Zimmer abhängen.#$e#Solange ich mich nicht umziehe, natürlich!" #!String
+    winter_Tue4: "Es ist so kalt, ich wünschte, wir hätten eine heiße Tasse Kakao zum teilen.$h" #!String
+    winter_Sat6: "Ich habe in letzter Zeit viel geträumt...#$e#Oh! Du willst wissen, worum es ging? Nun...$u#$b#...Es ist ein Geheimnis.$h" #!String
+    winter_Thu10: "Ein weiteres Jahr ist fast vorbei...#$b#Aber es war ein wirklich gutes Jahr, denkst du nicht?$h" #!String
+    winter_Wed6: "Es muss nett sein, um diese Zeit des Jahres keine Sorgen zu haben.#$e#Und das heißt, du kannst öfter mit mir abhängen!$h" #!String
+    winter_Fri10: "@, es gibt etwas, was ich dir sagen möchte, ...#$e#Es ist nur... ähm... nun... deine Stiefel! Sie, äh... schauen wirklich sauber aus... *schluck*#$e#Das ist alles... *seufz*$s" #!String
+
